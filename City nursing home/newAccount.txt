@@ -1,0 +1,55 @@
+Employee ID: doctor02
+Username: dimu
+Password: dimuth12
+Types Of Account: Doctor
+==========================================================
+Employee ID: Cashier01
+Username: dimuthu
+Password: dimu123
+Types Of Account: Cashier
+==========================================================
+Employee ID: admin01
+Username: dimuth
+Password: dim123
+Types Of Account: Administrator
+==========================================================
+Employee ID: Cashier03
+Username: dimut
+Password: dim123
+Types Of Account: Cashier
+==========================================================
+Employee ID: cashier04
+Username: dimuth
+Password: dim30
+Types Of Account: Cashier
+==========================================================
+Employee ID: Manager01
+Username: Dimuthu
+Password: dimu50
+Types Of Account: Manager
+==========================================================
+Employee ID: manager02
+Username: dimuthu
+Password: dimuthu20
+Types Of Account: Manager
+==========================================================
+Employee ID: Doctor02
+Username: dimuthu
+Password: dimuthu203
+Types Of Account: Doctor
+==========================================================
+Employee ID: cashier05
+Username: umindu
+Password: umindu100
+Types Of Account: Cashier
+==========================================================
+Employee ID: Cashier06
+Username: Shenal012
+Password: shenal300
+Types Of Account: Cashier
+==========================================================
+Employee ID: manager03
+Username: dimuthu475
+Password: Dimuthu200
+Types Of Account: Manager
+==========================================================

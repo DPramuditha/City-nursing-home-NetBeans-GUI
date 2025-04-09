@@ -1,0 +1,16 @@
+Doctor ID: doctor01
+Name: Dr.Shenal
+Date of Birth: 2002-07-26
+Years of Experience: 10
+Specialization: Mental Health & Neurology
+Available Days: 2025-03-03
+
+==========================================================
+Doctor ID: doctor02
+Name: Dr.Umindu
+Date of Birth: 2002-03-03
+Years of Experience: 10
+Specialization: Ear, Nose & Throat (ENT) & Eye Care
+Available Days: 2025-03-12
+
+==========================================================

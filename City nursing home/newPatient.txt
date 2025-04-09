@@ -1,0 +1,45 @@
+Name: Dimuthu Pramuditha
+Age: 23
+Contact: 0775384249
+Date of Birth: 2025-07-23
+Gender: Male
+Category: Emergency
+New Patient Date: 2025-02-24
+
+==========================================================
+Name: umindu Sandaruwan
+Age: 20
+Contact: 0777720604
+Date of Birth: 2025-07-25
+Gender: Male
+Category: Outpatient
+New Patient Date: 2025-02-24
+
+==========================================================
+Name: Lihan Amalsha
+Age: 33
+Contact: 0773846532
+Date of Birth: 2025-02-06
+Gender: Male
+Category: Emergency
+New Patient Date: 2025-02-28
+
+==========================================================
+Name: Nadeeka Sachinthana
+Age: 20
+Contact: 0776854736
+Date of Birth: 2025-02-06
+Gender: Male
+Category: Emergency
+New Patient Date: 2025-02-26
+
+==========================================================
+Name: Shenal Manelka 
+Age: 23
+Contact: 0714579235
+Date of Birth: 2002-07-26
+Gender: Male
+Category: Emergency
+New Patient Date: 2025-03-03
+
+==========================================================
